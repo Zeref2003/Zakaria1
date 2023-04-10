@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680994389 source:c:\users\zakaria\desktop\prooojet\main.c
+	<stdio.h>
+	<stdlib.h>
+
